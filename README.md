@@ -1,15 +1,12 @@
 <h1 align="center">
- <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hi+👋%2C+I'm+Vegitha+Tangde" alt="Typing SVG" />
-</h1>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hi+👋;I'm;Vegitha;Tangde" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">Turning data into impactful solutions through AI and Full Stack development.</h3>
 
 ---
 
-👨‍💻 About Me:
+## 👨‍💻 About Me
 
 - I’m currently exploring **Full Stack Development** and **Artificial Intelligence**
 - I aspire to become a **Data Analyst**
@@ -17,12 +14,17 @@
 
 ---
 
-🌐 Connect with me:
-[![LinkedIn](www.linkedin.com/in/vegithatangde)
+## 🌐 Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/vegithatangde" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
-🛠️ Languages and Tools:
+## 🛠️ Languages and Tools
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -40,10 +42,9 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 
-
 ---
 
-📊 GitHub Stats:
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vegitha-Tangde&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vegitha-Tangde&theme=tokyonight)
@@ -51,6 +52,6 @@
 
 ---
 
-🏆 GitHub Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=Vegitha-Tangde&theme=darkhub)](https://github.com/Vegitha-Tangde/github-profile-trophy)
+## 🏆 GitHub Trophies
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Vegitha-Tangde&theme=darkhub)](https://github.com/Vegitha-Tangde/github-profile-trophy)
